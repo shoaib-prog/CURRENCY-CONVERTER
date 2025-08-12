@@ -14,7 +14,7 @@ A sleek, desktop-based Currency Converter built using **Java Swing** as part of 
 - **Paradigm:** OOP, Event-Driven Programming
 
 ## 📺 Demo Video
-🎥 [Watch the Demo on LinkedIn]:[(https://www.linkedin.com/posts/mohammed-shoaib-p-a-b0a7b02a9_task2completed-javadevelopment-javaprojects-activity-7361090841802600449-KjiV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpVpToBg-K0TCGA6-AYuFfIresPJDy3yVk)]
+🎥 [Watch the Demo on LinkedIn]:[LinkedIn Post](https://www.linkedin.com/posts/mohammed-shoaib-p-a-b0a7b02a9_task2completed-javadevelopment-javaprojects-activity-7361090841802600449-KjiV?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEpVpToBg-K0TCGA6-AYuFfIresPJDy3yVk)
 
 ## 📌 Planned Upgrades
 - 🌐 API-based live currency rates
